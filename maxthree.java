@@ -8,7 +8,7 @@ public class maxthree {
         int c=inp.nextInt();
         if (a>b){
             if (a>c){
-                System.out.println;
+                System.out.println();
             }
         
         }
